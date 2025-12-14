@@ -59,6 +59,9 @@
 
 
 ## 💼 Internships
+- **IBM: AI Developer** (Jul 2025 - Sep 2025)  
+  - Worked on a large-scale project as part of the AI team, developed a **multi-agent system** using **MCPs** and **autogen**.
+
 - **Full-Stack Intern @ NAID** (Jul 2024 - Sep 2024)  
   - **Angular, Tailwind, Nest.js**  
   - **2nd Place among 26 teams** for AI-based on-screen keyboard  
