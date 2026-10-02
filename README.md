@@ -4,9 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mostafaali3&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaali3" /> </p>
 
 ## 🚀 About Me
-🎓 **Master's Student in Computer Science** at **York University**  
+🎓 **Master's Student in Computer Science** at **York University** 
+
 🎓 **Biomedical Engineering Graduate** at **Cairo University** (GPA: 3.6/4.0)  
-📖 Currently learning **Computer Vision and Machine Learning**  
+
+📖 Currently working on **small language model explainability and Responsible AI**, with experience in **Agentic AI and computer vision**
+
 🏆 **First Place** at IEEE ESPC & Egypt Undergraduate Research Forum in **Computer Science**
 
 ## 🔬 Projects
@@ -16,7 +19,6 @@
 
 CUBE.AI is our comprehensive graduation project. While the source code repository is currently private pending upcoming publication and research embargo requirements, we are incredibly proud of our global recognition at MICCAI.
 
-<!-- REPLACE THIS LINK with the direct raw image link of you on stage (e.g., upload it to a github repo and copy the raw link) -->
 <p align="center">
   <img src="stage_image.jpeg" alt="CUBE.AI Team on Stage at MICCAI" width="600"/>
 </p>
