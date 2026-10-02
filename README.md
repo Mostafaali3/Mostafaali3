@@ -1,17 +1,34 @@
-
 <h1 align="center">Hi there! 👋, I'm Mostafa Ali</h1>
-<h3 align="center">A passionate systems and biomedical engineering student from Egypt</h3>
+<h3 align="center">A passionate Systems & Biomedical Engineering graduate and current Computer Science Master's student.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mostafaali3&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaali3" /> </p>
 
-
-
 ## 🚀 About Me
-🎓 **Biomedical Engineering Student** at **Cairo University** (GPA: 3.6/4.0)  
+🎓 **Master's Student in Computer Science** at **York University**  
+🎓 **Biomedical Engineering Graduate** at **Cairo University** (GPA: 3.6/4.0)  
 📖 Currently learning **Computer Vision and Machine Learning**  
 🏆 **First Place** at IEEE ESPC & Egypt Undergraduate Research Forum in **Computer Science**
 
 ## 🔬 Projects
+
+### 🧠 CUBE.AI (Graduation Project)
+> **🏆 5th Place Globally — MICCAI Startup Village**
+
+CUBE.AI is our comprehensive graduation project. While the source code repository is currently private pending upcoming publication and research embargo requirements, we are incredibly proud of our global recognition at MICCAI.
+
+<!-- REPLACE THIS LINK with the direct raw image link of you on stage (e.g., upload it to a github repo and copy the raw link) -->
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Upload+Your+Stage+Photo+Here" alt="CUBE.AI Team on Stage at MICCAI" width="600"/>
+</p>
+
+**Explore CUBE.AI:**
+* 🌍 [Read about our win on the MICCAI Startup Village website](https://lnkd.in/dykyJfpS)
+* 🔗 [Learn more about the CUBE.AI project](https://lnkd.in/dHrFBBV7)
+* 🎬 [Watch the CUBE.AI Promo Video](https://drive.google.com/file/d/1K8QyLY5omZqR-i-PFRA5PSN8Z1Xdz1qC/view)
+
+<br/>
+
+### 💻 Other Notable Projects
 - **Real-Time Student Drowsiness Detection** ([Paper](https://drive.google.com/file/d/1lweAAe2SxIcm26VezMEAuMFevnPOkqkS/view?usp=sharing))  
 - **Azzam: Shazam-like Desktop App** ([Repo](https://github.com/Mostafaali3/Azzam-Shazam-like-desktop-app-for-music-matching))  
 - **Beamforming Real-Time Simulator** ([Repo](https://github.com/Mostafaali3/Beamforming-Realtime-Simulator))  
@@ -57,7 +74,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" height="30"/>
 </p>
 
-
 ## 💼 Internships
 - **IBM: AI Developer** (Jul 2025 - Sep 2025)  
   - Worked on a large-scale project as part of the AI team, developed a **multi-agent system** using **MCPs** and **autogen**.
@@ -70,6 +86,7 @@
   - Studied **Virtual Reality impact on neck movement**
 
 ## 🏆 Honors & Awards
+- **5th Place Globally** at MICCAI Startup Village (for CUBE.AI)
 - **First Place** at IEEE Egyptian Students Paper Contest  
 - **First Place** at Egypt Undergraduate Research Forum (Computer Science)  
 
@@ -91,4 +108,3 @@
 </p>
 
 🚀 **Let's collaborate on exciting projects!**
-
