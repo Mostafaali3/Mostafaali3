@@ -18,12 +18,12 @@ CUBE.AI is our comprehensive graduation project. While the source code repositor
 
 <!-- REPLACE THIS LINK with the direct raw image link of you on stage (e.g., upload it to a github repo and copy the raw link) -->
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Upload+Your+Stage+Photo+Here" alt="CUBE.AI Team on Stage at MICCAI" width="600"/>
+  <img src="stage_image.jpeg" alt="CUBE.AI Team on Stage at MICCAI" width="600"/>
 </p>
 
 **Explore CUBE.AI:**
-* 🌍 [Read about our win on the MICCAI Startup Village website](https://lnkd.in/dykyJfpS)
-* 🔗 [Learn more about the CUBE.AI project](https://lnkd.in/dHrFBBV7)
+* 🌍 [Read about our win on the MICCAI Startup Village website](https://miccai.org/2026/07/28/announcing-the-winners-of-the-miccai-startup-village-pitch-competition/)
+* 🔗 [Learn more about the CUBE.AI project](https://cubeairad.github.io/Cube.AI/)
 * 🎬 [Watch the CUBE.AI Promo Video](https://drive.google.com/file/d/1K8QyLY5omZqR-i-PFRA5PSN8Z1Xdz1qC/view)
 
 <br/>
