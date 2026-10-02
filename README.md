@@ -6,16 +6,19 @@
 ## 🚀 About Me
 🎓 **Master's Student in Computer Science** at **York University** 
 
-🎓 **Biomedical Engineering Graduate** at **Cairo University** (GPA: 3.6/4.0)  
+🎓 **Biomedical Engineering Graduate** at **Cairo University** (GPA: 3.83/4.0)  
 
 📖 Currently working on **small language model explainability and Responsible AI**, with experience in **Agentic AI and computer vision**
 
 🏆 **First Place** at IEEE ESPC & Egypt Undergraduate Research Forum in **Computer Science**
 
+## 📝 Publications
+- **Real-Time Student Drowsiness Detection (Hocus Focus)** — *Published in the NILES Conference* ([Paper](https://drive.google.com/file/d/1lweAAe2SxIcm26VezMEAuMFevnPOkqkS/view?usp=sharing))  
+
 ## 🔬 Projects
 
 ### 🧠 CUBE.AI (Graduation Project)
-> **🏆 5th Place Globally — MICCAI Startup Village**
+> **🏆 5th Place Globally @ MICCAI Startup Village**
 
 CUBE.AI is our comprehensive graduation project. While the source code repository is currently private pending upcoming publication and research embargo requirements, we are incredibly proud of our global recognition at MICCAI.
 
@@ -31,13 +34,17 @@ CUBE.AI is our comprehensive graduation project. While the source code repositor
 <br/>
 
 ### 💻 Other Notable Projects
-- **Real-Time Student Drowsiness Detection** ([Paper](https://drive.google.com/file/d/1lweAAe2SxIcm26VezMEAuMFevnPOkqkS/view?usp=sharing))  
+- **Philosophical Multi-Agent Decision Support System** ([Repo](https://github.com/enjyashraf18/Multi-Agent-Decision-Support-System))  
+- **Shoplifting Detection** ([Repo](https://github.com/AhmedXAlDeeb/Shoplifting-Detection))  
+- **Segmentation Lab** ([Repo](https://github.com/VisionCode-Toolkit/segmentation-lab))  
+- **Image Processing Lab** ([Repo](https://github.com/VisionCode-Toolkit/Image_Processing_Lab))  
+- **Cardio - Hospital Information System Web Application** ([Repo](https://github.com/Mostafaali3/Cardio_HIS_FinalProject))  
 - **Azzam: Shazam-like Desktop App** ([Repo](https://github.com/Mostafaali3/Azzam-Shazam-like-desktop-app-for-music-matching))  
 - **Beamforming Real-Time Simulator** ([Repo](https://github.com/Mostafaali3/Beamforming-Realtime-Simulator))  
 - **FilterSymphony: Real-Time Digital Filter Designer** ([Repo](https://github.com/Mostafaali3/FilterSymphony-Realtime-Digital-Filter-Designer))  
 - **ToneEQ: Audio Equalizer & Acapella Extractor** ([Repo](https://github.com/Mostafaali3/ToneEQ-Audio-Equalizer-and-Acapella-Extractor))  
 
-## 🛠️ Languages and Tools
+## 🛠️️ Languages and Tools
 
 ### 🚀 Software Engineering
 
@@ -88,9 +95,14 @@ CUBE.AI is our comprehensive graduation project. While the source code repositor
   - Studied **Virtual Reality impact on neck movement**
 
 ## 🏆 Honors & Awards
+- **Best Project in Egypt** at Egypt Innoventure Competition *(Secured 500,000 EGP in funding)*
+- **Grant Recipient** from Innovators Support Fund (ISF) & Ministry of Higher Education *(Secured 125,000 EGP in funding)*
 - **5th Place Globally** at MICCAI Startup Village (for CUBE.AI)
-- **First Place** at IEEE Egyptian Students Paper Contest  
-- **First Place** at Egypt Undergraduate Research Forum (Computer Science)  
+- **1st Place** at IEEE Egyptian Students Paper Contest *(Represented Egypt in the global contest)*
+- **1st Place (Computer Science)** at NU Egypt Undergraduate Research Forum  
+- **2nd Place** at Cairo University Undergraduate Research Day
+- **4th Place** at Machthon 5.0 Shoplifting Detection Competition
+- **Egypt Finalist** at Students Company Program by INJAZ Egypt (JA Worldwide)
 
 ## 🌍 Connect with Me
 <p align="left">
@@ -108,5 +120,3 @@ CUBE.AI is our comprehensive graduation project. While the source code repositor
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaali3&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-
-🚀 **Let's collaborate on exciting projects!**
